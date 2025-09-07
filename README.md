@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alwinmillil/titanic-classification/blob/main/titanic_classification.ipynb)
 # Titanic - Survival Prediction (Beginner Data Science Project)
 
 **Author:** Alwin (MSc Data Science)
@@ -47,5 +48,5 @@ jupyter notebook
 
 ## Contact
 If you need help running the notebook or uploading files, message me (or contact the person who created the repo).
-
+Added Colab button
 ---
